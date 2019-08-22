@@ -26,5 +26,5 @@ out.print("</tr>");
 out.print("</table>");
 con.close();
 }catch(Exception e){e.printStackTrace();}
-}//end of if cool
+}//end of if cool aa
 %>
