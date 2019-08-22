@@ -13,6 +13,6 @@ ps.executeUpdate();
 con.close();
 request.setAttribute("msg","Record Has been Successfully Deleted");
 }catch(Exception e){e.printStackTrace();}
-}//end of if
+}//end of ifjjjj
 %>
 <jsp:forward page="ahome.jsp"></jsp:forward>
