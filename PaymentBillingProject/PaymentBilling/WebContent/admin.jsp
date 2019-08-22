@@ -12,7 +12,11 @@
 			
 				<div id="logo">
 					<h1>
+<<<<<<< HEAD
 						Payment Billing System cool
+=======
+						Payment Billing System olddfghasfasdff
+>>>>>>> cf6c9dd7b6ece9fd27a785d26db4dd59906bd3fd
 					</h1>
 				</div>	
 		</div>
