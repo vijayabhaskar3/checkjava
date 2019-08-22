@@ -12,7 +12,7 @@
 			
 				<div id="logo">
 					<h1>
-						Payment Billing System olddfgh
+						Payment Billing System cool
 					</h1>
 				</div>	
 		</div>
